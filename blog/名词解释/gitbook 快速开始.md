@@ -1,4 +1,6 @@
-# 安装 gitbook-cli
+# 安装 gitbook
+
+| https://skyao.gitbooks.io/learning-gitbook/content/installation/nodejs.html
 
 Node.js都会默认安装npm（node包管理工具），所以不需要单独安装npm，打开命令行，执行以下命令安装GitBook:
 ```
