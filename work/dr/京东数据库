@@ -1,0 +1,16 @@
+
+董严 2-10 13:55:15
+yanfauser   Coal2023Pass_wordDRKJ_123
+
+董严 2-10 13:55:15
+智慧运销生产库  可操作表结构
+
+
+
+
+
+    @Override
+    public ServiceResponse<String> modifyIdentity(CreateLoginAccountByUnifyAccountRequest request) {
+        accountService.createPwdAccount(request.getUnifyAccountId(), request.getPassword(), request.getLoginAccount());
+        return ServiceResponse.init(GlobeServiceResultEnum.SUCCESS);
+    }

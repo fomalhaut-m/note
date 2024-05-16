@@ -1,0 +1,126 @@
+180.76.76.76
+
+# 部署
+
+## 上传jar
+
+```sh
+scp -P 22 coalsale-1.0.0.jar root@114.116.46.180:/root/pro
+password : Drkj01234
+```
+
+## 启动 docker 服务
+
+```sh
+sudo systemctl start docker
+```
+
+## 复制到docker
+
+```sh
+docker cp /root/pro/coalsale-1.0.0.jar moonnowcentos8-jdk8-node-nginx:/
+docker cp /root/pro/coalsale-2.3.2.jar moonnowcentos8-jdk8-node-ginxnew:/
+```
+
+## 停止docker容器
+
+```sh
+docker stop moonnowcentos8-jdk8-node-nginx
+docker stop moonnowcentos8-jdk8-node-nginxnew
+```
+
+## 启动docker容器
+
+```sh
+docker start moonnowcentos8-jdk8-node-nginx
+docker start moonnowcentos8-jdk8-node-nginxnew
+```
+
+## 进入docker
+
+```sh
+docker exec -i -t moonnowcentos8-jdk8-node-nginx /bin/bash
+docker exec -i -t moonnowcentos8-jdk8-node-nginxnew /bin/bash
+```
+
+## 删除日志
+
+```sh
+rm -rf nohup.out
+```
+
+## 启动项目
+
+```sh
+nohup java  -XX:+UseG1GC -jar coalsale-1.0.0.jar --spring.datasource.druid.username=coalsale --spring.datasource.druid.password=coalsale &
+nohup java -XX:+UseG1GC -jar coalsale-1.0.0.jar --spring.profiles.active=pro --spring.datasource.druid.username=coalsalecscs --spring.datasource.druid.password=coalsalecscs &
+nohup java -XX:+UseG1GC -jar coalsale-1.0.0-app-demo.jar --spring.profiles.active=test 
+nohup java -XX:+UseG1GC -jar coalsale-2.3.5.jar --spring.profiles.active=pro --spring.datasource.druid.username=coalsalecscs --spring.datasource.druid.password=coalsalecscs &
+```
+
+## 前端
+
+```sh
+cd /vue-coalsale
+
+npm install
+
+nohup npm run dev &
+```
+
+## nginx
+
+```sh
+nginx
+```
+
+# 迁移数据库
+
+## 创建用户SQL
+
+```sql
+
+```
+
+## 导入导出数据库
+
+* 进入docker
+  
+  docker exec -i -t oracle19c /bin/bash
+
+* 设置备份字符集
+  export NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+* 备份数据库
+  exp coalsalecs/coalsalecs@localhost:1521/orclpdb file=/bak.dmp
+
+* 退出至linux
+  exit
+
+* 将备份文件从docker复制到linux
+  docker cp oracle19c:/bak.dmp /root/oracledatafile/oracle19c
+
+* 移动到备份文件的目录
+  cd /root/oracledatafile/oracle19c
+
+* 压缩备份文件
+  tar -zcvf bak.dmp.tar.gz bak.dmp
+
+* 传送压缩文件
+  scp -P 22 bak.dmp.tar.gz root@114.116.46.180:/root/oracledatafile/oracle19c
+  password : Drkj01234
+
+* 将压缩文件解压
+  tar -zxvf /root/oracledatafile/oracle19c/bak.dmp.tar.gz
+
+* 将备份文件复制到docker中
+  docker cp /root/oracledatafile/oracle19c/bak.dmp oracle19c:/
+
+* 进入docker
+  docker exec -i -t oracle19c /bin/bash
+
+* 设置导入字符集
+  export NLS_LANG=AMERICAN_AMERICA.AL32UTF8
+
+* 导入数据库
+  imp coalsalecs2/coalsalecs2@localhost:1521/orclpdb file=/bak.dmp full=y ignore=y

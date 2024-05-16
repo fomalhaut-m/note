@@ -1,0 +1,25 @@
+Dear ${firstName},
+
+
+Great news! We are currently undergoing testing of our products and is currently available for an early release. This means that you will be able to create and upload content on our site - https://www.anzirtech.com/ now! Your Anzir Account with the [Author] Identity has been created for logging into our website.
+
+
+Log in information
+Your Anzir Account Username: ${userEmailAccount} 
+Password: ${pwd}
+
+
+Note that your Anzir Account can be used to access all of our Anzir Products and Website. However, your [Author] Identity is unique which can be used to access our Anzir Author Platform for content creation and uploading. To access the Anzir Author Platform, click on the Author Tab after logging onto our website and enter the same credentials as above.
+We highly recommend that you change your Anzir Account password after logging in for the first time. To change your password:
+1. Log into your account on our website
+2. Enter Profile Tab
+3. Click on Reset Password
+4. Change to a strong, new password!
+In addition, our applications are now live on the respective App Stores for iOS and Android and can be searched with the key terms (Anzir, Anzir GM). You can also download our Anzir GM and Anzir Player Applications here should you are unable to find them in the App Stores:
+https://www.anzirtech.com/#download
+Both of our Anzir Applications will be used by GMs and Players across the world to access your AnzirAct game and experience the adventures within. It is highly recommended for you to download and preview your AnzirAct content through the Apps. This way you will have a better clarity on how your game looks from the perspectives of other users and then make edits to your content accordingly.
+If you require any assistance, please do not hesitate to contact our support team at support@anzirtech.com
+
+
+Kind regards,
+Anzir

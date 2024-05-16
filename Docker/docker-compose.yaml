@@ -1,0 +1,12 @@
+version: '2.3'
+services:
+  master:
+    image: mongo:5.0.13
+    container_name: dr_mongo
+    restart: always
+    privileged: true
+    ports:
+    - "7005:27017"
+    volumes:
+    - ./data/master:/data/db
+    command: mongod --dbpath /data/db --replSet rs

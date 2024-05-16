@@ -1,0 +1,570 @@
+{
+  "id": 529,
+  "name": "单角色测试剧本001 1992-02-22 20:10:20",
+  "author": "Maria@author.com",
+  "desc": "单角色测试剧本001 2020-11-05 17:14:26 是为了方便测试",
+  "postscript": "场消阶活王确社容快京道口热也着。此况层程根则信两种机米也节所主人形。受验即每技回江计领精共石复究。月斗命制色联性广气最通到毛实公经主用。面活她最军义风见表白只已然。石位声己联万备持来天两律来万资后种。称难情已形理果般教便内干系他适名可。一放矿单传程名效事保问本家满情美际多。马照导建光极具日厂何而基长军。海认八动习大元安车地的内果八。候证需角色加列声矿容条圆成即始同海。类先原品华形老下需快精门农还阶头变。保事布体题世位斯人部花今空。还又支位个的而入主起进型极下带。文何实员质价才场史解关达军例认。山积西术八林等形所求大义。务采容部给技业斗器数内林热年。",
+  "store_id": 0,
+  "author_id": 35,
+  "limit_id": 0,
+  "times": 120,
+  "artwork_cover": "fabletop/202312/087f5489-fba4-4dbf-b67e-19c2f0b33c17.jpg",
+  "cover": "fabletop/202312/782649d4-04ff-4a9b-ad88-45103b61c072.png",
+  "price": "0.00",
+  "level": 0,
+  "state": 2,
+  "is_internal_test": 0,
+  "is_internal_test_count": 0,
+  "role_num": 1,
+  "min_role_num": 1,
+  "male_num": 0,
+  "female_num": 1,
+  "is_entity": 0,
+  "word_count": 4233,
+  "is_autosave": 1,
+  "background_color": "#383838",
+  "md5_string": "a1afdf8cb5ae3aa73ae3f0d3ddb30a74",
+  "lang_type": 1,
+  "deleted_at": null,
+  "created_at": "2023-12-25 06:00:58",
+  "updated_at": "2023-12-25 06:01:35",
+  "clue_groups": [
+    {
+      "id": 240,
+      "name": "光写情理 : 0",
+      "base_id": 529,
+      "clue_scenes": [
+        {
+          "id": 326,
+          "group_id": 240,
+          "name": "Untitled play",
+          "clues": [
+            {
+              "id": 400,
+              "name": "曾涛 0",
+              "scene_id": 326,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 0,
+              "content": "政断层近海步的个再半话还问认动并。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "政断层近海步的个再半话还问认动并。"
+            },
+            {
+              "id": 401,
+              "name": "常娟 1",
+              "scene_id": 326,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 1,
+              "content": "历第进果很统可以量状儿族动见是。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "历第进果很统可以量状儿族动见是。"
+            }
+          ]
+        },
+        {
+          "id": 328,
+          "group_id": 240,
+          "name": "蔡芳",
+          "clues": [
+            {
+              "id": 402,
+              "name": "余娜 0",
+              "scene_id": 328,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 0,
+              "content": "类制常比价具现养业地总领规场七属。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "类制常比价具现养业地总领规场七属。"
+            },
+            {
+              "id": 403,
+              "name": "汪秀英 1",
+              "scene_id": 328,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 1,
+              "content": "统权化每计不车活采研界你始来厂数料且知。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "统权化每计不车活采研界你始来厂数料且知。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "轮次一",
+      "base_id": 529,
+      "clue_scenes": [
+        {
+          "id": 329,
+          "group_id": 239,
+          "name": "石军",
+          "clues": [
+            {
+              "id": 404,
+              "name": "叶娟 0",
+              "scene_id": 329,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 0,
+              "content": "调但积么存通平路亲之现参但基作次知象此约。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "调但积么存通平路亲之现参但基作次知象此约。"
+            },
+            {
+              "id": 405,
+              "name": "尹磊 1",
+              "scene_id": 329,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 1,
+              "content": "维建标听龙务法参比局子。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "维建标听龙务法参比局子。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "具情新加住 : 1",
+      "base_id": 529,
+      "clue_scenes": [
+        {
+          "id": 327,
+          "group_id": 241,
+          "name": "Untitled play",
+          "clues": [
+            {
+              "id": 406,
+              "name": "侯洋 0",
+              "scene_id": 327,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 0,
+              "content": "使识着米光半酸高教高问。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "使识着米光半酸高教高问。"
+            },
+            {
+              "id": 407,
+              "name": "秦磊 1",
+              "scene_id": 327,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 1,
+              "content": "消感些对精南科治制光风周非开。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "消感些对精南科治制光风周非开。"
+            }
+          ]
+        },
+        {
+          "id": 330,
+          "group_id": 241,
+          "name": "郭刚",
+          "clues": [
+            {
+              "id": 408,
+              "name": "卢敏 0",
+              "scene_id": 330,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 0,
+              "content": "主青京示被革龙支精员问历。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "主青京示被革龙支精员问历。"
+            },
+            {
+              "id": 409,
+              "name": "吕军 1",
+              "scene_id": 330,
+              "artwork_image": "fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image": "fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "sort": 1,
+              "content": "斗分较温深养信四期点增在志金包交张论。",
+              "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/6c9dcc4c-b32d-4774-b914-fcb5c669b166.jpg",
+              "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/3f9314c4-1cc9-49e5-890e-988437640b21.png",
+              "str_content": "斗分较温深养信四期点增在志金包交张论。"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "id": 164,
+      "base_id": 529,
+      "name": "朱静",
+      "is_required": 1,
+      "sex": 2,
+      "age": 48,
+      "artwork_image": "fabletop/202312/c108051d-b806-4941-bdfd-2acd29eaf100.jpg",
+      "image": "fabletop/202312/2783454d-33e4-4f96-b18b-b0f3b86c2ac2.png",
+      "desc": "玩家说明 : 外类中快较就白型生叫。",
+      "slogan": "角色描述 : 结非程你新格条空命从按应观广始解技元只你。",
+      "sort": 1,
+      "md5_string": "bbe304cd11a39de95f66d2218d76a658",
+      "is_preview": 0,
+      "deleted_at": null,
+      "created_at": "2023-12-25 06:01:32",
+      "updated_at": "2023-12-25 06:01:32",
+      "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/c108051d-b806-4941-bdfd-2acd29eaf100.jpg",
+      "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/2783454d-33e4-4f96-b18b-b0f3b86c2ac2.png",
+      "subs": [
+        {
+          "id": 240,
+          "base_id": 529,
+          "role_id": 164,
+          "name": "朱静",
+          "artwork_image": "fabletop/202312/c108051d-b806-4941-bdfd-2acd29eaf100.jpg",
+          "image": "fabletop/202312/2783454d-33e4-4f96-b18b-b0f3b86c2ac2.png",
+          "desc": "",
+          "sort": 1,
+          "md5_string": "bbe304cd11a39de95f66d2218d76a658",
+          "deleted_at": null,
+          "created_at": "2023-12-25 06:01:33",
+          "updated_at": "2023-12-25 06:01:33",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/c108051d-b806-4941-bdfd-2acd29eaf100.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/2783454d-33e4-4f96-b18b-b0f3b86c2ac2.png",
+          "chapters": [
+            {
+              "id": 257,
+              "sub_id": 240,
+              "base_id": 529,
+              "name": "般流进这政",
+              "content": "带性后术也形观技而运选解其证志叫天。做离组方军组开面王着美器机比反花层。外三表专示政持能准约军青。方年次切指得制里电格术得统。着表至地开带状许空外证后是。中铁从金世离济思般白门市些组系。统声气类目相部改品展来党许。边导先自节太任一会工团先重。际里工按例型证产专利物很别书最属需六。基养界这积打强而反正采高问定须。究适系圆经红导及林火非生持治算。步也响程光百具共林四需学知。报市文北感整改能角决委反精。由生最火条切平作不战群被把志。照党安从济采反示机百据须风劳手同便。传见思类统力量局技南在重得将工世始主。月信育而准开热点所增件专。于还农每当日至具与是样整决好使劳得。然指展府海较变程理文日段厂使断农。界都第克少象给制消百什话革要太越办。组离四可者片快花花教识品受。节白达都把小特格或重系太色斯。消段几业按样少格区见理分战心资。种为说器重火按方先派节克年。列本三加族引农构体住感式五律。战但亲华光点九时是面儿调数过。成可何其太济么西然写还山。义为况标打厂确则原备是与。代机七值里所设党何变数自京流查毛成。元节北那严平分其己支确形运石计型。质片百领运则开老矿机就清度展历办。手非造就类机断马自克书持业为查几书。机数条真美感据非叫消厂法。被半便目参权低等少参北研与段还年又。将听人都单力从生铁只土由联你素。相单据老反军己前并叫取政容科面。育农压处点本百花米车每由置。术严火路又利时主住维质马特。算工向观电权如次没及半头。治林记群用众那至两小方候音色影治看年。战酸立前型按志保立头果系数。并构自制矿及下那况约装速或化。多积保想验识极交交制形想会示电。通支理物元技生叫统己火为己效。取法书情始深直效议心除号存。立取平图求分参状极车节龙立文件毛务。结品相众制无成农前百有应来间段林者么。列多据包级资受学车位农持格历。值现林政术老装车四离当据上。有管增写易图决道接书与照前同。动行她议前义一平利委手节那低术。世种七变压改目自量现自白然电军书机。律到子状效位什即力济常提七内业很。名些无世问验带素飞标两技始派划。按来始海二之象党安理器量求由们信具行。料和农济养美科象南周使战。业是价应市争将保性分七克好。市半育电专建性国加土科商已家建期别。养因保究主采委光总被北美场资容物。看划报少要写容百置较王决如矿强结之。内己高精厂至海时据出委音军。命调备开率效几又不写色物深备十求二才。最之几员水层历适连治引自始。程置世商无把内率光发我便可。先参府是那型己些满生部是本。式术内于由机经红统调油济品。他动准统基么话单加干造般制界分。区周常动劳平土声和才切听上确切而。研六出提技作油也根取称毛打必流。党比派儿业住江效响如收积门维风每议。多将放列组积权开格意水备但。",
+              "word_count": 1117,
+              "sort": 1,
+              "md5_string": "8154b79568f2a14d806c2a16172d4539",
+              "deleted_at": null,
+              "created_at": "2023-12-25 06:01:33",
+              "updated_at": "2023-12-25 06:01:33",
+              "desc": "带性后术也形观技而运选解其证志叫天。做离组方军组开面王着美器机比反花层。外三表专示政持能准约军青。方年次切指得制里电格术得统。着表至地开带状许空外证后是。中铁从金世离济思般白门市些组系。统声气类目相部改品展来党许。边导先自节太任一会工团先重。际里工按..."
+            }
+          ]
+        },
+        {
+          "id": 241,
+          "base_id": 529,
+          "role_id": 164,
+          "name": "么下格约政育层",
+          "artwork_image": "fabletop/202312/d22cdca8-b0e8-4afc-9edb-8770bbdcddb3.jpg",
+          "image": "fabletop/202312/a44f31bf-75d2-444f-8f7d-4e38cc5a8b40.png",
+          "desc": "场景描述 : 法较形近火想毛以效保低克走电。矿明品称十合金特天但议铁复红细。书它走引工要产研先研示千。名解利广十交候相开把定器形证们自。论治展千带干族别先百事增许管本五快。经单也社地市五之期历该开并后拉最金。展县今反面万政产它东同更单。铁你从类花决都只体素将矿置效农。装总县九真高原作离从派律。们离办叫写战性加商别想取道程器身更。",
+          "sort": 2,
+          "md5_string": "70589cc2729333a14a99e0648326da6a",
+          "deleted_at": null,
+          "created_at": "2023-12-25 06:01:33",
+          "updated_at": "2023-12-25 06:01:33",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/d22cdca8-b0e8-4afc-9edb-8770bbdcddb3.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/a44f31bf-75d2-444f-8f7d-4e38cc5a8b40.png",
+          "chapters": [
+            {
+              "id": 258,
+              "sub_id": 241,
+              "base_id": 529,
+              "name": "必些京较变",
+              "content": "看导几众装日细天面南研风须采支由别矿。响半最结华论图证约运认三。期速应得委族子酸作目战天特着号回主。支流基题才近较使战易标争生约。治电样划火且般相五正出气相意合或。任次信至压快真界有才作人前更维克命。原话使论定员图意性快济保干写等长三。面次装开规种车什斗将低长后力斯先使。者生极合走引织究战容为年划制。成做手般习织素路积深现直因现。这明重过东应至步深此北部周员。要十市准外物造却出革商五总极。者制新准温安应铁个打市平导便。型清她家圆律只更律存社之次设。律完构你们办用建两去式必科业准指电。算便起准文接先各想群周区以由物受子。最各决子她件感因统开往复却王在。局备海技际满里量解原院委领传。间九制适许统习使知利需天。区出和解角写什维打发海用走步参着。识市置联文计心温发样情六米据行表太响。指家是儿研间合权团因导集龙本决。七日常素十程半管等研确况边改少教。列各确经门应问口美象相界光别术太果意。造或西年节各国决花派元切。半复安备它层产路商人价活许米队二有。如力验议干提量学可力道区建。族连己门太深从电京运段价生被划情。其温不白济层品长划能工林油响上总。同义月分他较指心质难大后所长机。对克无先矿花和片机统被参使。济支接类金指织一老料议关边好利放。图好多同万适九员五北条儿。被习南约明件流你度管对建引中委生。老件影百律消张派全几调们己备三近白表。一图当影相格格感运生飞置我连中指完。工没论对场一革角能放林公这。去人南原给认农门关近约习经头采活分科。保对车设易越上面划主报感工就积条此。按月属务美全术重列影表斗铁不其。格什南体利人完层目方名需意。时建市委只难多青角向往石团带场产。传很约中部入织前二际约接量。细置近火极种素命越表治活品。但自需与一群间复委本事准必设。方造所清阶他期动算问你构身住手。收规方十候此确各强应果专却发根片切。铁新力百度划民九速许那往定。还由识构单农六江织约指思住边斗离非。团步拉准员林又面定调切见派受存石社老。对维民到年走族眼求位反离型非联。复处很要常将论亲据号持变。土面土难主力例区且点员战见共科张。半区西只小战回他开适于红思准边人。党回老解处况层方就支事通到。看意完线治被一委强无标了。书小老系由车极开阶包别身运。同叫计当而圆深花更采能受行属又正。县大万约公元易定意应满家。元置参相音着活省节月节想际思的青题县。参属九式北系毛周商然各和场据。心用很在阶看把听其国开及之无书入为。保证新方先资指地使活线而正干山之及。积单无青号色必此基中始知式去间力。九提应图系际拉花原实火极半飞最。省需论根只带际子局就矿志根论。车一石备到解技社干土两打论联。想求些战面起支价者元实合。较步江包美精加而般包况资制红我我军。表圆劳反议开科了展儿热场交今。自段质按在听话接级且般快。同形便深实生形通却区类关多按。积者主个约公验量半格相精需程反年。听连业市斗感代家者花类马华。火置光便又反几究体人任发习消再。得取九数金则风调族把等价等家。化空任增识维名商家通少别此克音油。候劳养更完数合际外展得才战看事中四物。光表想步军六自眼利后总经争许离回。装所四万层身状统治受千同代往起育新。果的合称越世路群器才力历且别。除真看较几天心特立认包石。号压圆当意备特开先消今务数提府历。近眼并去业我保斗清矿理常先。层构于音应观们了分变非革记基他。保极也各构记你是造生准儿本压战市。空书斯飞划都张示形则造究步期此。而热心集其名处管角象美心团她。治林下军边按商些万行先传万族养国生。体们音支可却公几处支局标直清自。去复命最队把己始质中风由列。到收开知例改律米还其团有马象。区根文确了务低定点府风压然较海。及你持过领技育会会果现白一切定例标。光导安间铁是七院明是品头属个调。拉江专局派带己价量各车都风集利专。色看事斗完理知只热道京五车半身队则。求角表亲济进有济因代做度非几。",
+              "word_count": 1573,
+              "sort": 1,
+              "md5_string": "c1822b9a294d4e8ef58c6cbb782961a1",
+              "deleted_at": null,
+              "created_at": "2023-12-25 06:01:33",
+              "updated_at": "2023-12-25 06:01:33",
+              "desc": "看导几众装日细天面南研风须采支由别矿。响半最结华论图证约运认三。期速应得委族子酸作目战天特着号回主。支流基题才近较使战易标争生约。治电样划火且般相五正出气相意合或。任次信至压快真界有才作人前更维克命。原话使论定员图意性快济保干写等长三。面次装开规种车..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "prop_groups": [
+    {
+      "id": 240,
+      "name": "苏静0",
+      "base_id": 529,
+      "props": [
+        {
+          "id": 344,
+          "group_id": 240,
+          "name": "姜杰 0",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 0,
+          "content": "祁连县",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "祁连县"
+        },
+        {
+          "id": 345,
+          "group_id": 240,
+          "name": "贺娜 0",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 0,
+          "content": "其它区",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "其它区"
+        },
+        {
+          "id": 346,
+          "group_id": 240,
+          "name": "薛杰 0",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 0,
+          "content": "漳平市",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "漳平市"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "轮次一",
+      "base_id": 529,
+      "props": [
+        {
+          "id": 347,
+          "group_id": 239,
+          "name": "郑秀英 1",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 1,
+          "content": "其它区",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "其它区"
+        },
+        {
+          "id": 348,
+          "group_id": 239,
+          "name": "廖娜 1",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 1,
+          "content": "余姚市",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "余姚市"
+        },
+        {
+          "id": 349,
+          "group_id": 239,
+          "name": "史勇 1",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 1,
+          "content": "海城区",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "海城区"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "王娜1",
+      "base_id": 529,
+      "props": [
+        {
+          "id": 350,
+          "group_id": 241,
+          "name": "田军 2",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 2,
+          "content": "其它区",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "其它区"
+        },
+        {
+          "id": 351,
+          "group_id": 241,
+          "name": "侯静 2",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 2,
+          "content": "呈贡区",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "呈贡区"
+        },
+        {
+          "id": 352,
+          "group_id": 241,
+          "name": "贺霞 2",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 2,
+          "content": "柳林县",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "柳林县"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "赵超2",
+      "base_id": 529,
+      "props": [
+        {
+          "id": 353,
+          "group_id": 242,
+          "name": "李静 3",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 3,
+          "content": "海盐县",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "海盐县"
+        },
+        {
+          "id": 354,
+          "group_id": 242,
+          "name": "杜洋 3",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 3,
+          "content": "-",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "-"
+        },
+        {
+          "id": 355,
+          "group_id": 242,
+          "name": "梁强 3",
+          "artwork_image": "fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image": "fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "sort": 3,
+          "content": "柳林县",
+          "artwork_image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/97fa29a4-a199-4e74-b991-80f9923e6a5f.jpg",
+          "image_url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/9cfe06e1-b8d7-4fed-9666-1e3c537b0969.png",
+          "str_content": "柳林县"
+        }
+      ]
+    }
+  ],
+  "dm_content": {
+    "id": 36,
+    "base_id": 529,
+    "title": "",
+    "word_count": 1543,
+    "content": "里识文听速圆养为数根是回过王质。术约长给性几部件党自改使别工。按何取等里风展它导什来例历老研流济关。低提论备就证维件易色位又风。养种表红酸例是志飞起统效报地西。天很对热千列济的设流酸没。手习用备便切除制来上器中农圆称住革。住四心为事整片无物铁层易通个量青。革温七制会水维华才十消计切切口查太。和就维点联质回去照常专开中温。了里改写给亲线么可道次起性个从非农效。作得质深率你转员王但重路路类广。派去美身重而太革维必往火有上成。治对做现收六花观车打问重论。不存具计长无义则进期正因。家标期众包定它位派律才林其走电。商完工离正上过即论而有家大比得单。回重基社器复体受消工适电先料至。近快什运表合只你程火为体根究。农公低有些要走来每便四不立合委众组单。领铁风它是龙治战习算长到将。转两海决种象作必果必马价发发工心。路那事走门水照理即之知型活处价越林。感志向严最场院众并后着影极法支。光细把响应形属效候机意心观越下江。斯可花圆度她团国面影始是年方。则于革中须县七电龙书总易响县或感加。划需断直反头期志增军我也。天军之却矿除生各长打变率斯。一志方复状京上验最规节连。局干代做开利要给书处进万得率因道。们何参计向造管影的何专道强样府问门子。按须决院劳次十意系风权当。型方易以究备车按问别资面心会大。状进水生参火也子府至可她低业件天。无议色劳门便要南少性京速热意力原较。集个究速加四历整毛低县名新。里单后组性群关带布断别况道素带上。生但上品热场部如消了需出建和二。能样象六始老消了复于头状。道对准资直却与酸素各公公第处话。具往想门真整为阶广小象段个义称了色。具往比深参个维这战无复管。的导算前多么性青京将住商心因王她。条活便南物构定解今性米极东。层内利次元她长如用角管精程争。各新任向素几之家正特美方把天领连。信少维开运速流器层查布般问。况线准反济油见成切使斯日布书石。率例但部江备品更内号安思何反技。制便切基全式半还共真常回治步化生每。认身达三深收决回近来近经标平酸料物度。细快相任场精每产必长接不高无第美。气给里表层信知部整路活织总委等。先动个设验何我身南电更况出会象。每期影情建已得金回你验并时对。实严准你收线几起还问圆工在先速市矿精。就学容达包阶热层斯林存飞复京七社。感我劳音际其往向报打先五她定选你往。团族手最则该王建了全业一处。动员三准五自标林以行义电。立用写作思出安两类参决毛历到已并状。应活才安子回子最文会路接联养规院分。外对作准家龙口上己精内这布族期色。每据交学了将准今派按教近位。离流元层体适代原价历期头国。响已南列它采上做到风委生济文之了化每。道数过术业角己间查温确他是图教西区化。级置能手及较此少记备而率话成治学。电色边广治将北果物政开合只易性。学半百适二花区和育山群易西。品片变花情属提系为很次办系且。志外更细成论少六两属说却活。今段低光少就到号是龙少就油须。造照定者个前以海长正起放照。和按中装记称音空易压儿价组适想林强。行工更造热开者号几研着设提。美每标从是样应电能队三变决除。上感深任温都本克周切队达可照土即。无头局信身海复资米张就自适。实装较叫易无放据形其程照布效。却了要情切今东例车完般引转入率市。再月建办公人己不产被九别比感。设导术书切示又文几五细先口圆。向分提会交力局步原从严风由铁。性石常指机值第情解干用干根能元验算。派任可改京里却等被心消活。圆压高件量解什使公和机很构自。引两片式连住适斯层列加理究做报。又农风际术她列把带什成十分员条必厂。号员值各处马开划王二统证流种。三力京会亲断时由拉满影能知维低然化。强得情都列石声维产权今精长。使务属全题经三达就例作明气七三。律好点关会元现象见算毛子接话处。许走头它并易素界根叫部万说说。系平火间县使变点象接众历厂行。",
+    "md5_string": "35e489705573819039f38ab3d718d9b5",
+    "is_preview": 1,
+    "deleted_at": null,
+    "created_at": "2023-12-25T06:01:33.000000Z",
+    "updated_at": "2023-12-25T06:01:35.000000Z"
+  },
+  "medias": [
+    {
+      "id": 179,
+      "base_id": 529,
+      "pid": 0,
+      "title": "文件夹 (杨强)",
+      "is_folder": 0,
+      "file_type": 0,
+      "plat": 0,
+      "desc": "",
+      "url": "0",
+      "video_image": "",
+      "sort": 0,
+      "md5_string": "95935b839f3ed40695b062a9cd4de552",
+      "deleted_at": null,
+      "created_at": "2023-12-25T06:01:33.000000Z",
+      "updated_at": "2023-12-25T06:01:33.000000Z"
+    },
+    {
+      "id": 180,
+      "base_id": 529,
+      "pid": 0,
+      "title": "图 (万明)",
+      "is_folder": 0,
+      "file_type": 1,
+      "plat": 0,
+      "desc": "",
+      "url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/f919d092-c65b-449a-bdb3-e47e1e0d18a8.jpg",
+      "video_image": "",
+      "sort": 0,
+      "md5_string": "95935b839f3ed40695b062a9cd4de552",
+      "deleted_at": null,
+      "created_at": "2023-12-25T06:01:33.000000Z",
+      "updated_at": "2023-12-25T06:01:33.000000Z"
+    },
+    {
+      "id": 181,
+      "base_id": 529,
+      "pid": 0,
+      "title": "视频连接 (卢杰)",
+      "is_folder": 0,
+      "file_type": 2,
+      "plat": 0,
+      "desc": "",
+      "url": "http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4",
+      "video_image": "",
+      "sort": 0,
+      "md5_string": "67a4071bfbb7db96fb6e9946dd7fba5a",
+      "deleted_at": null,
+      "created_at": "2023-12-25T06:01:33.000000Z",
+      "updated_at": "2023-12-25T06:01:33.000000Z"
+    },
+    {
+      "id": 182,
+      "base_id": 529,
+      "pid": 0,
+      "title": "音频连接 (陈超)",
+      "is_folder": 0,
+      "file_type": 3,
+      "plat": 0,
+      "desc": "",
+      "url": "http://m10.music.126.net/20180809173001/070d716213a3cf7cb910b5b88b638eb8/ymusic/687c/a444/e9e3/66452e1efb0e3f108d6b899010c13ba8.mp3",
+      "video_image": "",
+      "sort": 0,
+      "md5_string": "67a4071bfbb7db96fb6e9946dd7fba5a",
+      "deleted_at": null,
+      "created_at": "2023-12-25T06:01:33.000000Z",
+      "updated_at": "2023-12-25T06:01:33.000000Z"
+    },
+    {
+      "id": 183,
+      "base_id": 529,
+      "pid": 0,
+      "title": "本地音频 (王军)",
+      "is_folder": 0,
+      "file_type": 4,
+      "plat": 0,
+      "desc": "",
+      "url": "https://anzir-resource-test.s3.ap-southeast-2.amazonaws.com/fabletop/202312/0930dc5a-a6f7-4d23-bf38-cb7bf503f692.mp3",
+      "video_image": "",
+      "sort": 0,
+      "md5_string": "5e2b2f3873775b8d05bb7b19da804fc2",
+      "deleted_at": null,
+      "created_at": "2023-12-25T06:01:33.000000Z",
+      "updated_at": "2023-12-25T06:01:33.000000Z"
+    }
+  ]
+}
