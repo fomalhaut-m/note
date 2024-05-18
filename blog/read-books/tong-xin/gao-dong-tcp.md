@@ -16,13 +16,13 @@ TCP 提供面向有连接的通信传输，面向有连接是指在传送数据�
 
 下面的图是TCP头部的规范定义，它定义了TCP协议如何读取和解析数据：
 
-![](../../.gitbook/assets/图片.png)
+![](<../../.gitbook/assets/图片 (3).png>)
 
 
 
 * TCP首部承载这TCP协议需要的各项信息，下面我们来分析一下：
 
-<figure><img src="../../.gitbook/assets/图片 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### TCP端口号
 
@@ -53,7 +53,7 @@ TCP 提供面向有连接的通信传输，面向有连接是指在传送数据�
 
 三次握手过程的示意图如下：&#x20;
 
-<figure><img src="../../.gitbook/assets/图片 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/图片 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 报文分析
 
