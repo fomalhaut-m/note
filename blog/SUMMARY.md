@@ -4,4 +4,4 @@
 
 ## nouns
 
-* [RMA -](nouns/rma.md)
+* [RMA](nouns/rma.md)
