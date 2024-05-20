@@ -1,0 +1,54 @@
+EN.APP_DOWNLOAD.mail_title:
+1: Anzir | Application Download Details
+EN.AUTHOR_APPLICATION_APPROVED.mail_title:
+1: Anzir | Author Application Approved!
+EN.AUTHOR_APPLICATION_REJECTED.mail_title:
+1: Anzir | Author Application Rejected
+EN.BECOME_AUTHOR.mail_title:
+1: Anzir | Welcome to your Anzir Author Platform!
+EN.CHANGED_MAIL.mail_title:
+1: Anzir | Safety Alert
+EN.CHANGED_PWD.mail_title:
+1: Anzir | Safety Alert
+EN.CONTACT_US_REPLY.mail_title:
+1: Anzir | Thank you for your feedback!
+EN.GET_IN_TOUCH.mail_title:
+1: Anzir | There is a new consumer !
+EN.GM_APPLICATION_FEEDBACK.mail_title:
+1: Anzir | GM Application Passed
+EN.LOGOFF_ACCOUNT.mail_title:
+1: Anzir | Successful Deletion of Anzir User Account
+EN.NEW_AUTHOR_BETA_1400.mail_title:
+1: Anzir | Author Platform and Anzir App Applications Available now!
+EN.NEW_AUTHOR_BETA.mail_title:
+1: Anzir | Welcome to your Anzir Author Platform!
+EN.SCRIPT_AUDITING_PASSED.mail_title:
+1: Anzir | AnzirAct Publish Request Outcome Notification
+EN.SCRIPT_AUDITING_REJECTED.mail_title:
+1: Anzir | AnzirAct Publish Request Outcome Notification
+EN.SCRIPT_AUDITING_REVOKED.mail_title:
+1: Anzir | Withdrawal of AnzirAct from Publishing Audit
+EN.SCRIPT_PRICE_CHANGE_APPROVED.mail_title:
+1: Anzir | AnzirAct Price Updated Successfully
+EN.SCRIPT_PRICE_CHANGE_REJECTED.mail_title:
+1: Anzir | AnzirAct Price Update Failed
+EN.SCRIPT_PRICE_CHANGED.mail_title:
+1: Anzir | AnzirAct Price Updated
+EN.SCRIPT_TO_CLOSE_TEST.mail_title:
+1: Anzir | AnzirAct Available for Testing
+EN.SCRIPT_TO_DRAFT.mail_title:
+1: Anzir | AnzirAct Withdrawn from Testing
+EN.SCRIPT_TO_FINAL_TEST.mail_title:
+1: Anzir | AnzirAct Publish Request Received
+EN.SCRIPT_TO_OFF_SALE.mail_title:
+1: Anzir | AnzirAct Removal Notification
+EN.SCRIPT_TO_ON_SALE.mail_title:
+1: Anzir | AnzirAct Successfully Published!
+EN.VERIFICATION_CODE.mail_title:
+1: Anzir | Verification Code (Do not reply)
+EN.WITHDRAWAL_REQUEST_OUTCOME_NOTIFICATION_APPROVED.mail_title:
+1: Anzir | Payment Withdrawal Request Outcome Notification
+EN.WITHDRAWAL_REQUEST_OUTCOME_NOTIFICATION_REJECTED.mail_title:
+1: Anzir | Payment Withdrawal Request Outcome Notification
+EN.WITHDRAWAL_REQUEST_RECEIVED.mail_title:
+1: Anzir | Payment Withdrawal Request Received
