@@ -1,0 +1,10 @@
+com.google.api.client.googleapis.json.GoogleJsonResponseException: 401 Unauthorized
+{
+  "code" : 401,
+  "errors" : [ {
+    "domain" : "androidpublisher",
+    "message" : "The current user has insufficient permissions to perform the requested operation.",
+    "reason" : "permissionDenied"
+  } ],
+  "message" : "The current user has insufficient permissions to perform the requested operation."
+}
