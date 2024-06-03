@@ -1,0 +1,2 @@
+Dear ${firstName},
+    Your account email has been changed to ${changedEmail}. If you have not changed your email yourself, we suggest that you contact us at anzirsafety@anzirtech.com and restore your account.

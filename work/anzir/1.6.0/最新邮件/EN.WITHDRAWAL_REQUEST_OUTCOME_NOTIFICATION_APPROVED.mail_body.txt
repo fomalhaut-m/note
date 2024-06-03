@@ -1,0 +1,17 @@
+Dear [${firstName}],
+
+I hope this email finds you well, and we sincerely appreciate your support and trust in our platform. We’ve reviewed your withdrawal request and the outcome is:
+
+Account Name: [${paypalName}]
+Paypal Account Address: [${paypalEmailAddress}]
+Amount: [${withdrawalAmount}]
+Date: [${applyTime}]
+
+We are pleased to inform you that your withdrawal request has been approved. Your funds will be deposited into your nominated Paypal account within the next business days. Kindly monitor your Paypal account to confirm the successful deposit.
+
+If you have any inquiries or concerns regarding this withdrawal, please contact our support team at support@anzirtech.com with the Withdrawal ID for assistance.
+
+Thank you for your continued support. We look forward to our ongoing collaboration and wish you joy in your creative endeavors.
+
+Kind regards,
+Anzir Team

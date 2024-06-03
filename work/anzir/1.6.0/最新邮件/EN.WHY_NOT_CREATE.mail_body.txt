@@ -1,0 +1,11 @@
+Dear ${firstName},
+
+How have you been? I hope everything is going well for you after joining Anzir as a Freelance AnzirAct Author. We noticed that you haven't logged onto your Anzir Author Platform for a few weeks and wanted to check in to see if everything is alright or if there’s anything we can assist you with.
+
+Your creative ideas and contributions are highly valued, and we want to ensure you have everything you need to continue your work smoothly. If you have any questions or need assistance, please reach out to us at support@anzirtech.com or schedule a call through this link: https://calendly.com/anzir-1on1/30min.
+
+We look forward to hearing from you soon!
+
+Best regards,
+Anzir Team
+

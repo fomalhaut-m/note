@@ -1,0 +1,15 @@
+Dear ${authorName},
+
+We regret to inform you that your AnzirAct (${scriptTitle}) has been removed from our platform due to:
+
+${offSaleReasons}
+
+We understand this might be disappointing, and we’re here to help. For more information and assistance, please contact our support team at support@anzirtech.com with the following details:
+
+● Your Anzir No.
+● AnzirAct Name:
+
+We appreciate your understanding and cooperation, and we look forward to assisting you.
+
+Kind Regards,
+Anzir Team

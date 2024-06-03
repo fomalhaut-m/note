@@ -1,0 +1,11 @@
+Dear ${authorName},
+
+Congratulations! Your AnzirAct - ${scriptTitle} - can now be accessed on the Anzir GM App for testing purposes.
+
+After conducting thorough tests to ensure content quality, you’ll have the opportunity to publish it for public play after an audit.
+
+For questions or assistance during the testing phase, contact our support team at support@anzirtech.com.
+
+Happy testing!
+Anzir Team
+

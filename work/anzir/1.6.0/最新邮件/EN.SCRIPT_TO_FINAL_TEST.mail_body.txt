@@ -1,0 +1,13 @@
+Dear ${authorName},
+
+Hooray! Your AnzirAct - ${scriptTitle} - has reached a fantastic milestone! The Anzir Content Team has received your Publish Request, and we couldn’t be more excited for you!
+
+Before your AnzirAct can be officially published on our platform, our Content Team will conduct a thorough audit to ensure everything is in top shape. This process will take between 5-10 business days.
+
+If you have any questions or need to make changes during the review, contact our support team at support@anzirtech.com.
+
+Let's celebrate this achievement together!
+
+Kind regards,
+Anzir Team
+

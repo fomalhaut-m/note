@@ -1,0 +1,14 @@
+Hello ${firstName}!
+
+Congratulations on joining Anzir as a dedicated AnzirAct author! We are beyond excited to have you onboard our revolution to transform the LARP industry! We can’t wait to see your AnzirAct creations on our platform and to experience them ourselves!
+
+What's next?
+You can now access your ANZIR Author account on our platform ${authorWebSite}. Log in to your ANZIR User Account, and you’ll find your Author account activated, giving you access to a treasure trove of resources to help you on your AnzirAct writing journey. A guide to these resources is attached to this email.
+
+Feel free to explore and create your unique stories. Follow us on Instagram @ANZIR_Office for the latest updates and news.
+
+Start crafting your AnzirAct, and if you have any questions, reach out to us at info@anzirtech.com.
+
+Welcome aboard!
+Anzir Team
+

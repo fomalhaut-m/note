@@ -1,0 +1,13 @@
+Dear ${authorName},
+
+We regret to inform you that your AnzirAct - ${scriptTitle} - has been rejected after a thorough audit by our content team.
+
+Reason(s) for rejection:
+${auditReason}
+
+For inquiries or to appeal this decision, contact our support team at support@anzirtech.com.
+
+We encourage you to address the issues and resubmit. We look forward to seeing your improved AnzirAct!
+
+Kind regards,
+Anzir Team

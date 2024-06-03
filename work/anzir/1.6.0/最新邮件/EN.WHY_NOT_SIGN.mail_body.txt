@@ -1,0 +1,13 @@
+Dear ${firstName},
+
+I hope this email finds you well. We’re really excited about your interest in becoming an Anzir Freelance Author and noticed that you haven’t followed up with the Agreement signing process.
+
+We wanted to check in to see if you’re facing any issues or have any concerns with the application process. Our team is here to assist you and would love to have you join our community.
+
+Please let us know if there’s anything we can do to assist you in completing the onboarding process. We can be reached via support@anzirtech.com or through this link: https://calendly.com/anzir-1on1/30min.
+
+We look forward to welcoming you onboard!
+
+Best regards,
+Anzir Team
+

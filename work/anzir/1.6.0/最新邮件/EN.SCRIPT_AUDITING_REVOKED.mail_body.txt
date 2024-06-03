@@ -1,0 +1,8 @@
+Dear ${authorName},
+
+Your AnzirAct - ${scriptTitle} - has been withdrawn from Publishing Audit. We recommend testing your AnzirAct content at least three times before resubmitting it for audit to ensure high-quality content.
+
+For inquiries regarding this withdrawal, contact our support team at support@anzirtech.com.
+
+Best,
+Anzir Team

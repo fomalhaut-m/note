@@ -1,0 +1,17 @@
+Dear ${firstName},
+
+We regret to notify you that the PRICE UPDATE of your AnzirAct "${scriptName}" is not successful due to:
+<#list rejectedReasons as reason>
+● ${reason}
+</#list>
+
+
+For assistance, please contact our support team at support@anzirtech.com , and provide the information below:
+● Your Anzir No.
+● AnzirAct Name
+
+
+Kind Regards,
+Anzir
+
+

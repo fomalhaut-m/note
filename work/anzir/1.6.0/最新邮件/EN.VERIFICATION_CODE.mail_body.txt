@@ -1,0 +1,2 @@
+Your one time verification code is [${code}].
+Please do not reveal this code to anyone else. (Ignore and delete this message if you did not request this.)

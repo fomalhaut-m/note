@@ -1,0 +1,7 @@
+Dear ${user_name},
+
+This email serves to confirm that you have successfully deleted your Anzir User Account with the User ID [${account_no}]. The Email Address associated with the deleted Anzir User Account will be restricted from creating a new account for a period of 7 days from the successful deletion.
+
+
+Kind Regards,
+Anzir Accounts Safety Team

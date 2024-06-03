@@ -1,0 +1,19 @@
+Dear ${firstName},
+
+Exciting news! We are currently in the early release phase of our products, and you can now create and upload content on our site - https://www.anzirtech.com/. Your Anzir Account with the [Author] Identity has been approved!
+
+Log in information:
+Your Anzir Account Username: ${userEmailAccount}
+Password: The Password you created when you signed up for an Anzir Account
+
+Your Anzir Account can be used to access all our products and website. Your [Author] Identity is unique for accessing our Anzir Author Platform for content creation. Click on the Author Tab after logging in and use the same credentials.
+
+Our applications are live on the App Stores for iOS and Android (search terms: Anzir, Anzir GM). Download links:
+https://www.anzirtech.com/#download
+
+Preview your AnzirAct content through the Apps to see how your game looks from other users' perspectives.
+
+For assistance, contact support@anzirtech.com.
+
+Welcome to Anzir!
+Anzir Team

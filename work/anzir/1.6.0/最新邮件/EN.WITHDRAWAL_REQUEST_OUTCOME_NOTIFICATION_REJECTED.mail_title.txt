@@ -1,0 +1,1 @@
+Anzir | [${orderNo}] Withdrawal Request Outcome Notification

@@ -1,0 +1,16 @@
+Hello ${firstName}!
+
+
+We are sending this mail to check if you need any assistance in accessing your personal Anzir Author Platform. We have updated this handy Guide on how to Create your first AnzirAct on the Anzir Author Platform: https://anzir.notion.site/Author-Platform-Guide-How-to-Create-your-First-AnzirAct-f49ab4ab43fe4bd7ad24009c5fa60f97?pvs=4
+ 
+
+Note that there's a section -  'Your Agreement'- in the Author Platform which does not show your signed agreement. We are preparing the migration of the Author Application Process onto our own website and will be importing your signed Agreement into this section which is currently acting as a placeholder. 
+
+
+If you require any assistance such as getting your way around the Author Platform or Content creation, please do not hesitate to contact our support team at support@anzirtech.com
+
+
+Kind regards,
+Anzir
+
+

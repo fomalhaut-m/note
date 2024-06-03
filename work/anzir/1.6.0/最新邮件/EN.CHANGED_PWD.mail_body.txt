@@ -1,0 +1,2 @@
+Dear ${firstName},
+	Account ${loginAccountName} has changed the password. If you have not changed your password yourself, we suggest that you restore your account.

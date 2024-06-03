@@ -1,0 +1,17 @@
+Dear [${firstName}],
+
+I hope this email finds you well, and we appreciate your support and trust in our platform. We’ve reviewed your withdrawal request, and the outcome is as follows:
+
+Account Name: [${paypalName}]
+Paypal Account Address: [${paypalEmailAddress}]
+Amount: [${withdrawalAmount}]
+Date: [${applyTime}]
+
+We regret to inform you that your withdrawal request has not been approved for the following reason(s):
+
+● ${reason}
+
+We understand the potential inconvenience this may cause and recommend contacting our support team at support@anzirtech.com for priority assistance. Thank you for your understanding.
+
+Kind regards,
+Anzir Team

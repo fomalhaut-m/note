@@ -1,0 +1,10 @@
+Get In Touch :
+
+USER:
+${name}
+Phone:
+${phone}
+Email:
+${email}
+Message:
+${message}

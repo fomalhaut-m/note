@@ -1,0 +1,8 @@
+Dear ${authorName},
+
+Your AnzirAct - ${scriptTitle} - has been successfully withdrawn from testing. We recommend testing your content at least three times before submitting it for audit to ensure high-quality content.
+
+For assistance, contact our support team at support@anzirtech.com.
+
+Best,
+Anzir Team

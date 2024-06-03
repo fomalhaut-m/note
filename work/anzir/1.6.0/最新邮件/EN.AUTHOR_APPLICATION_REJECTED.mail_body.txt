@@ -1,0 +1,19 @@
+Dear ${firstName},
+
+Thank you for your interest in joining ANZIR as an AnzirAct author and for the enthusiasm you have shown towards revolutionizing the LARP industry with us.
+
+We have carefully reviewed your application and we regret to inform you that we are unable to proceed with your application. There was insufficient information provided in your application and/or challenges in verifying your identity.
+
+Information required:
+ 	-Please upload a clear, high-resolution picture of your identity document
+-Ensure that the name on the contract and author’s information match the information on your identity document
+-Your identity document does not have the required information to verify your identity
+
+At ANZIR, we strive to maintain a high standard of quality and authenticity in our author community. This process includes a thorough review of the information provided by our applicants and ensuring that their identity is verified to be authentic. Unfortunately, in your case, we found that the details provided were not sufficient for us to approve your application.
+
+We believe in providing our authors with the freedom to express their unique styles and creativity. However, this must be balanced with ensuring that our platform maintains its integrity and trustworthiness. Therefore, we encourage you to reapply with a more detailed submission and clearer identity verification documentation.
+
+If you have any questions or need guidance on how to provide a more complete application, please feel free to reach out to us at info@anzirtech.com . We are more than willing to assist you in this process.
+
+Kind regards,
+Anzir

@@ -1,0 +1,13 @@
+Dear ${firstName},
+
+Thank you for your enthusiasm in joining our early access release! Fantastic news! Our Anzir App Applications are ready, and we are absolutely thrilled to have you on board to start exploring!
+
+Both the Anzir GM App and Player App are now available on iOS and Android Mobile/Tablet Devices. To help you get started, we’ve attached video guides for downloading the Anzir App.
+
+Should you encounter any bugs, please let us know through the in-game feedback function or on our Discord Server.
+
+Please note that these two applications are separate, and you will need to download both to experience the full features of Anzir App.
+
+Happy adventuring!
+Anzir Team
+

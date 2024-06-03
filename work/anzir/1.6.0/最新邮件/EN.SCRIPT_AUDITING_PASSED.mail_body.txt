@@ -1,0 +1,12 @@
+Dear ${authorName},
+
+We are thrilled to congratulate you on the successful approval of your AnzirAct publishing request! Hooray!
+
+You can now publish your AnzirAct - [${scriptTitle}] - on the Anzir Author Platform. Head over to the platform, and you’ll find the Publish button active. Once you click Publish, your content will be available on Anzir App for players worldwide!
+
+If you notice any discrepancies, contact our support team at support@anzirtech.com. No further action is required if everything looks good.
+
+Thank you for your passion in creating ${scriptTitle}. We can’t wait to see how it changes the world through storytelling!
+
+Warm regards,
+Anzir Team

@@ -1,0 +1,17 @@
+Dear [${firstName}],
+
+I hope this email finds you well. This email confirms the recent request regarding the withdrawal of your Anzir Account Funds to your nominated Paypal account:
+
+Account Name: [${paypalName}]
+Paypal Account Address: [${paypalEmailAddress}]
+Amount: [${withdrawalAmount}]
+Date: [${applyTime}]
+
+We are ready to proceed with this transaction and kindly ask you to review the details carefully. If everything is correct, no further action is required, and we will respond to your withdrawal process within 3-5 business days.
+
+If there is any discrepancy or if you did not authorize this withdrawal, please contact our support team immediately at support@anzirtech.com.
+
+Thank you for your cooperation.
+
+Kind Regards,
+Anzir Team

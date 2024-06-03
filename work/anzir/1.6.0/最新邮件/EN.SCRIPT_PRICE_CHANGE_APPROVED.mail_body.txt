@@ -1,0 +1,11 @@
+Dear ${firstName},
+
+We are pleased to inform you of the price update for your AnzirAct "${scriptName}".
+
+Previous Price: ${currentPrice}
+New Price: ${changedPrice}
+
+The new price will be updated on the platform after 7 days.
+
+Kind Regards,
+Anzir Team

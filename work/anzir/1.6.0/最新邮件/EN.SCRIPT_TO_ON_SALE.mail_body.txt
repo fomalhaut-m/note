@@ -1,0 +1,10 @@
+Dear ${authorName},
+
+Congratulations! Your AnzirAct - ${scriptTitle} - has been successfully published on our platform! Your AnzirAct may take between 24-48 hours to show up and can be hosted and played immediately.
+
+Please be aware that occasional promotions on our platform may result in your AnzirAct being played at a discounted rate. Anzir will cover the promotional costs, and if any joint contribution is required, we will discuss specifics with you beforehand.
+
+If you need any assistance, contact our support team at support@anzirtech.com. Thank you for contributing to the world of storytelling with Anzir!
+
+Kind regards,
+Anzir Team
