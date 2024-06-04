@@ -140,3 +140,4 @@
   * [敏捷](read-books/project-manager/ACP敏捷管理/1.为什么需要敏捷管理.md)
 * [性能之巅](read-books/xing-neng-zhi-dian/README.md)
   * [第一章 论述](read-books/xing-neng-zhi-dian/di-yi-zhang-lun-shu.md)
+  * [第二章 方法](read-books/xing-neng-zhi-dian/di-er-zhang-fang-fa.md)
